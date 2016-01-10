@@ -1,7 +1,7 @@
 **Installing Autowhat**
 
 ```
-git clone https://whutz@bitbucket.org/whutz/autowhat.git
+git clone https://github.com/whutz/autowhat.git
 
 cd autowhat
 npm install
