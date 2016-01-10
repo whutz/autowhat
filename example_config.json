@@ -1,0 +1,9 @@
+{
+  "username" : "",
+  "password" : "",
+  "path" : "",
+  "basepath" : "torrents/",
+  "max_torrent_size" : "350000000",
+  "process_interval" : "600000",
+  "base_url" : "https://what.cd"
+}
